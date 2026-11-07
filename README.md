@@ -92,13 +92,9 @@ Overall, these challenges helped me practise more and become more familiar with 
 ## Article
 [View My Article](https://dev.to/magdalenewanyeki/semantic-html-accessibility-what-i-learned-and-fixed-5ln)
 
-IYF Season 12 - Week 02: CSS Mastery
+## IYF Season 12 - Week 02: CSS Mastery
 
-Project Overview
-
-This repository contains my Week 02 CSS Mastery assignments for the IYF Weekend Academy.
-
-Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -106,7 +102,7 @@ Technologies Used
 - CSS Grid
 - Responsive Design
 
-Daily Challenges
+## Daily Challenges
 
 1. Button Hover Effects
 2. Card Component
@@ -114,24 +110,27 @@ Daily Challenges
 4. Styled Contact Form
 5. Multi-Column Footer
 
-Additional Exercises
+## Additional Exercises
 
 - CSS Box Model Practice
 - Flexbox Practice
 - CSS Grid Gallery
 - Responsive Navigation
 
-How to View
+## How to View
 
 Open the HTML files in a web browser to view the exercises.
 
-Learning Objectives
+## Learning Objectives
 
 - Understand the CSS Box Model.
 - Create reusable CSS components.
 - Use Flexbox and CSS Grid.
 - Build responsive layouts.
 - Apply hover effects and modern styling.
+
+## live demo
+-[live demo](https://magdalenewanyeki.github.io/iyf-week-02-MagdaleneWanyeki/)
 
 Author
 
